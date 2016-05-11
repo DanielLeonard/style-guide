@@ -31,7 +31,7 @@ h1{text-align: center;
 text-align: center;
     font-size: 300%;
     color: white;
-    margin-bottom:
+    margin-top: -1em;
 
 }
 h2 {
@@ -79,6 +79,11 @@ background-size: 105em;}
 
 /*--End Parrallax--*/
 /*--images--*/
+.headimg{
+width: 50%;
+margin-top: -25em
+}
+
 img{width: 50%;}
 
 
