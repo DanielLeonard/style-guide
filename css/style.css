@@ -1,0 +1,156 @@
+{
+    padding: 0;
+    margin: 0;
+    font-size: 100%;
+    line-height: 1em;
+}
+
+/*--text---*/
+body
+    {font-family: 'Open Sans', sans-serif;
+    text-align: center;
+text-align-last: center;
+    }
+.h1head 
+    {
+    text-align: center;
+    font-size: 600%;
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 1%;
+   margin-bottom:
+}
+
+h1{text-align: center;
+    font-size: 600%;
+    color: black;
+    text-transform: uppercase;
+    letter-spacing: 1%;}
+.h2head
+{
+text-align: center;
+    font-size: 300%;
+    color: white;
+    margin-bottom:
+
+}
+h2 {
+    text-align: center;
+    font-size: 300%;
+    color: black;
+    text-transform: uppercase;
+    letter-spacing: 1%;
+    padding: 1em;
+    padding-top: 2em;
+    
+}
+
+h3 {
+    text-align: center;
+    font-size: 200%;
+    color: black;
+    text-transform: uppercase;
+    letter-spacing: 1%;
+    padding: 1em}
+
+p{ padding-left: 25%; 
+    padding-right: 25%;
+    padding-bottom: 3%;
+    
+}
+
+  span{color: #FF6B6B;}
+
+.monogram {width: 20%;
+
+margin-top: -50%;
+margin-bottom:15%;
+margin-left: 85%}
+
+
+/*--Start Parrallax--*/
+.parallax {background: url(../images/DSC_1636.jpg) repeat fixed;
+background-size: 105em;}
+.parallax-inner { padding-top: 25%;
+    padding-bottom: 7%;
+    margin-bottom: -3em;
+    background-size: auto;
+}
+
+/*--End Parrallax--*/
+/*--images--*/
+img{width: 50%;}
+
+
+
+#gallery {
+margin: 0;
+padding: 2.5%;
+list-style: none;
+    
+
+}
+
+.portimg{
+    width: 100%;
+    height: auto;
+    z-index: -1;
+    vertical-align: top;
+    -webkit-filter: grayscale(100%);
+    opacity: 1;
+    
+}
+
+.mono{
+    width: 100%;
+    height: auto;
+    z-index: -1;
+    vertical-align: top;
+    opacity: 1;
+    
+}
+    
+#gallery li { float: left;
+    width: 45%;
+    margin:2.5%;
+    position: relative;
+    opacity: 0.9;
+
+}
+.center {font-family: 'Roboto', sans-serif;
+    text-align: center;
+  font-weight: 900;
+  color: white;
+  text-transform: uppercase;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  font-size: 1.4em;
+  transform: translate(-50%, -50%);
+}
+
+#gallery li:hover{opacity: 1;
+}
+
+.center:hover{-webkit-filter: blur(0px);}
+
+.icons {
+width: 5em;
+display:inline-block;
+align-items: center;
+padding-left: 5em;
+padding-right: 5em;}
+
+}
+
+.icons:hover {width: 6em;}
+
+footer{padding-top: 3em;}
+
+.footerimage {
+width: 10em;
+}
+
+/*--buttons--*/
+
