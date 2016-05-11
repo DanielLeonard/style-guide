@@ -1,4 +1,4 @@
-Portfolio
+Style Guide
 ---------
 
-##[Portfolio](https://DanielLeonard.github.io/style-guide/index.html)
+##[Style Guide](https://DanielLeonard.github.io/style-guide/index.html)
